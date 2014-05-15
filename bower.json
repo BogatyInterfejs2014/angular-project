@@ -1,8 +1,8 @@
 {
-  "name": "angular-seed",
-  "description": "A starter project for AngularJS",
+  "name": "angular-project",
+  "description": "AngularJS application for BIU classes",
   "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-seed",
+  "homepage": "https://github.com/BogatyInterfejs2014/angular-project",
   "license": "MIT",
   "private": true,
   "dependencies": {
